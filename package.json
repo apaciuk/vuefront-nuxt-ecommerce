@@ -17,6 +17,7 @@
         "@vuefront/wordpress-theme": "^0.1.1",
         "babel-core": "^6.26.3",
         "cookie-universal-nuxt": "^2.1.2",
+        "lodash-webpack-plugin": "^0.11.5",
         "nuxt": "^2.11.0",
         "vue-meta": "^2.3.3",
         "vuefront-nuxt": "^0.3.3"

@@ -1,11 +1,11 @@
 export default {
-    
-    
+    css: [
+        '@/assets/css/main.scss'
+    ],
+
+
     theme: '@vuefront/wordpress-theme',
-    
-    
-    
-    
+
     image: {
         logo: {
             path: '~/assets/img/logo_header.svg'
